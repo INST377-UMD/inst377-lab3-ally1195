@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+
+}
+.section-left {
+    background-color: red;
+    color: whitesmoke;
+    width: 60%;
+    padding: 24px;
+    float: left
+}
+
+.section-right {
+    background-color: blue;
+    color:brown;
+    width: 24%;
+    padding: 24px;
+    float: right
+}
+
+.section-bottom {
+    background-color: green;
+    padding: 24px;
+    clear: both
+}
