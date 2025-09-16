@@ -1,7 +1,18 @@
 .head {
-    background-color: aqua;
+    background-color: powderblue;
 }
 body {
-    background-color: aqua;
+    background-color: rgb(149, 0, 255);
     font-family: 'Times New Roman', Times, serif;
+    color:azure;
+
+}
+div {
+    text-align: center;
+    color:aquamarine
+
+}
+header {
+    color: black;
+    font-size: 50px
 }
