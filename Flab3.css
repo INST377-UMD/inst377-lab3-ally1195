@@ -8,13 +8,17 @@ nav {
 }
 main{
     background-color:lightseagreen;
-    margin-right: 25%;
     border-style: dotted;
     border-radius: 10%;
+    padding: 1%;
+    float: left
 }
 aside {
+    background-color: lightcoral;
+    margin-left:75%;
+    padding-left: 5%;
     border-style: double;
-    border-radius: 25%;
+    border-radius: 12%;
 }
 
 .HF {
