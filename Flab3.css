@@ -1,3 +1,6 @@
+Body {
+    background-color: lightslategray;
+}
 nav {
     
     text-align: center; 
@@ -6,6 +9,8 @@ nav {
 main{
     background-color:lightseagreen;
     margin-right: 25%;
+    border-style: dotted;
+    border-radius: 10%;
 }
 aside {
     border-style: double;
@@ -19,6 +24,8 @@ aside {
     border-style: dotted;
 }
 .dropbtn { 
+    border-style:dashed;
+    border-radius: 25%;
     background-color: darkgoldenrod;
     color:black;
     padding: 16px;
