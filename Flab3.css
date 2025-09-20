@@ -11,7 +11,8 @@ main{
     border-style: dotted;
     border-radius: 10%;
     padding: 1%;
-    float: left
+    float: left;
+    width: 70%;
 }
 aside {
     background-color: lightcoral;
