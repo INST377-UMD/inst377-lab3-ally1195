@@ -3,6 +3,12 @@ nav {
     text-align: center; 
     background-color: lightcoral;
 }
+aside {
+    border-style: double;
+    border-radius: 25%;
+    padding-left: auto;
+    margin-left: 75%;
+}
 
 .HF {
     text-align: center;
