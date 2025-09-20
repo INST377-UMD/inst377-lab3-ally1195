@@ -3,6 +3,10 @@ nav {
     text-align: center; 
     background-color: lightcoral;
 }
+main{
+    background-color:lightseagreen;
+    margin-right: 25%;
+}
 aside {
     border-style: double;
     border-radius: 25%;
@@ -13,4 +17,25 @@ aside {
 .HF {
     text-align: center;
     border-style: dotted;
+}
+.dropbtn { 
+    background-color: darkgoldenrod;
+    color:black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+
+}
+.dropdown {
+    position: relative;
+    display:inline-block;
+}
+.dropdown:hover .dropdown-content {display:block;}
+.dropdown-content {
+    display: none;
+    position:absolute;
+    background-color: aliceblue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px lightblue;
+    z-index: 1;
 }
