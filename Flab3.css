@@ -66,6 +66,7 @@ ol li a:hover {
 
 }
 
+
 .dropbtn { 
     border-style:dashed;
     border-radius: 25%;
@@ -99,3 +100,7 @@ ol li a:hover {
 .dropdown-content p:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+aside:hover {background-color: yellow;}
+input:focus{
+    width: 700px;
+}
