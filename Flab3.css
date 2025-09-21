@@ -1,0 +1,106 @@
+
+header {
+}
+body {
+    background-color: lightslategray;
+}
+nav {
+    
+    text-align: center; 
+    background-color: lightcoral;
+}
+
+main{
+    background-color:lightseagreen;
+    border-style: dotted;
+    border-radius: 10%;
+    margin: 2px;
+    padding: 12px;
+    float: left;
+    width: 70%;
+}
+
+aside {
+    background-color: lightcoral;
+    margin: 2px;
+    padding: 12px;
+    border-style: double;
+    border-radius: 12%;
+    width: 25%; 
+    float:right;
+}
+
+    
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+ol li {
+    float:left
+}
+ol li a {
+    display: block;
+    color:white;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ol li a:hover {
+    background-color: #111111;
+}
+
+.HF {
+    font-family: fantasy;
+    background-color: lightseagreen;
+    text-align: center;
+    border-style: dotted;
+    margin-top:2.5%;
+    margin-bottom: 5%;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+    clear:both;
+    
+
+}
+
+
+.dropbtn { 
+    border-style:dashed;
+    border-radius: 25%;
+    background-color: darkgoldenrod;
+    color:black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+
+}
+.dropdown {
+    position: relative;
+    display:inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position:absolute;
+    background-color: aliceblue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px lightblue;
+    z-index: 1;
+}
+.dropdown-content p {
+    color:black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display:block;
+}
+
+.dropdown-content p:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+aside:hover {background-color: yellow;}
+input:focus{
+    width: 700px;
+}
