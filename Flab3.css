@@ -49,6 +49,12 @@ ul li a:hover {
     background-color: lightseagreen;
     text-align: center;
     border-style: dotted;
+    margin-top:2.5%;
+    margin-bottom: 5%;
+    padding-top: 1%;
+    padding-bottom: 0.5%
+    
+
 }
 .dropbtn { 
     border-style:dashed;
