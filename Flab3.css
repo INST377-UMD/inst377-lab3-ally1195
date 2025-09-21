@@ -9,6 +9,7 @@ nav {
     text-align: center; 
     background-color: lightcoral;
 }
+
 main{
     background-color:lightseagreen;
     border-style: dotted;
@@ -17,13 +18,17 @@ main{
     float: left;
     width: 70%;
 }
+
 aside {
     background-color: lightcoral;
-    margin-left:75%;
+    margin-left: 73%;
     padding-left: 5%;
     border-style: double;
     border-radius: 12%;
+    
 }
+
+    
 ul {
     list-style-type: none;
     margin: 0;
