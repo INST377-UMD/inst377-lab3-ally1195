@@ -31,28 +31,29 @@ aside {
 }
 
     
-ul {
+ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333333;
 }
-ul li {
+ol li {
     float:left
 }
-ul li a {
+ol li a {
     display: block;
     color:white;
     text-align:center;
     padding: 14px 16px;
     text-decoration: none;
 }
-ul li a:hover {
+ol li a:hover {
     background-color: #111111;
 }
 
 .HF {
+    font-family: fantasy;
     background-color: lightseagreen;
     text-align: center;
     border-style: dotted;
