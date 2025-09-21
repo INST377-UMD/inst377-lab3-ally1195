@@ -14,18 +14,20 @@ main{
     background-color:lightseagreen;
     border-style: dotted;
     border-radius: 10%;
-    padding: 1%;
+    margin: 2px;
+    padding: 12px;
     float: left;
     width: 70%;
 }
 
 aside {
     background-color: lightcoral;
-    margin-left: 73%;
-    padding-left: 5%;
+    margin: 2px;
+    padding: 12px;
     border-style: double;
     border-radius: 12%;
-    
+    width: 25%; 
+    float:right;
 }
 
     
@@ -57,10 +59,12 @@ ul li a:hover {
     margin-top:2.5%;
     margin-bottom: 5%;
     padding-top: 1%;
-    padding-bottom: 0.5%
+    padding-bottom: 0.5%;
+    clear:both;
     
 
 }
+
 .dropbtn { 
     border-style:dashed;
     border-radius: 25%;
